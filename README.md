@@ -34,3 +34,5 @@ GitHub Stats
 <a href="https://github.com/mcban34">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcban34&layout=compact&theme=dark&show_icons=true" width="450">
 </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcban34&theme=highcontrast">
