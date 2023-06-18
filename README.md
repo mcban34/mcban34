@@ -36,3 +36,6 @@ GitHub Stats
 </a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcban34&theme=dark" width="450">
+
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mcban34&theme=radical&no-frame=false&no-bg=false&margin-w=4)
