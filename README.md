@@ -24,6 +24,7 @@ Technologies I use.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=E4245B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=FFD43B)
 
 <hr>
