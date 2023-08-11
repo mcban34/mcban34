@@ -5,7 +5,7 @@ Hello Everyone
 </h1>
   
 <p>
-I am a passionate and eager to learn developer. I am constantly trying to improve myself by educating myself with new technologies. I continue to develop projects by playing an active role in Front-End and UI. I am currently working as a front-end web developer at Neos Software Company and also giving trainings.
+I am a passionate and eager to learn developer. I am constantly trying to improve myself by educating myself with new technologies. I continue to develop projects by taking an active role in Front-End and UI.
 </p>
   
 <p>Ask me about anything</p>
